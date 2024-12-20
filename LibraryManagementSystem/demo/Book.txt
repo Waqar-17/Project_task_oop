@@ -1,0 +1,8 @@
+sfds,a,sfds,Yes
+sdfsdf,sfdsdfs,dsf,No
+ASASAS,aZASSASAS,ASASA,Yes
+sdfs,fssdfsd,s,Yes
+a,a,a,Yes
+b,b,b,Yes
+ID1,Book1,Author1,No
+ID3,Book3,Author3,Yes
